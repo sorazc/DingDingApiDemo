@@ -12,5 +12,6 @@ logs
 target
 *.iml
 .idea
+.mvn
 .factorypath
 rebel*
